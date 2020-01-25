@@ -50,7 +50,7 @@ sections:
 - type: section_posts
   template: section_posts
   section_id: recent-posts
-  title: 'Some of our projects '
+  title: 'Projects '
   bg: gray
   subtitle: ''
 menus:
