@@ -4,39 +4,37 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: 'Content driven '
-  content: Creating industry leading [brands](https://www.fhoke.com/services/branding/),
-    best in class [websites](https://www.fhoke.com/services/websites/), and systems
-    to help grow your business. It’s what makes us different.
+  title: 'Content Driven '
+  content: Creating industry leading brands, best in class websites, and systems to
+    help grow your business. It’s what makes us different.
   image: images/hero.png
   actions:
-  - label: Learn More
+  - label: 'Hire us '
     url: "/features"
 - type: section_features
   template: section_features
   section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  title: 'What we do '
+  subtitle: 'something something '
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: 'Build an Experience '
+    content: A streamlined approach to present your project and services to your audience.
     image: images/feature1.png
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: 'Creative and responsive, win win '
+    content: Mobile first design approach. Solution to reach your client on their
+      screen of choice.
     image: images/feature2.png
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: 'Social Media Design '
+    content: Ever asked yourself what size does my logo have to be on Instagram, what
+      time do I need to post to maximize reach and accumulate potential customers?
+      Benefit for the best in class design
     image: images/feature3.png
     actions:
     - label: Learn More
