@@ -5,10 +5,10 @@ sections:
   template: section_contact
   section_id: contact
   title: Contact
-  content: 'Tell us about your projects. Ask us a question or simply drop a quick
-    hello. '
+  content: Tell us about your projects. Ask us a question or simply give us a quick
+    hello.
   bg: gray
-  subtitle: 'Hire our team!  '
+  subtitle: ''
 menus:
   secondary:
     title: Contact
