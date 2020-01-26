@@ -7,7 +7,7 @@ sections:
   title: 'Content Driven '
   content: Creating industry leading brands, best in class websites, and systems to
     help grow your business. It’s what makes us different.
-  image: images/hero.png
+  image: "/images/hero1.png"
   actions:
   - label: 'Hire us '
     url: "/features"
