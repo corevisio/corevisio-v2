@@ -2,6 +2,90 @@
  * Palettes
  * ----------------------------------------------------------------------------
  */
+
+.palette-cv {
+  a {
+    &:hover,
+    &:focus {
+      border-color: _palette(accent-purple);
+      color: _palette(accent-purple);
+    }
+  }
+
+  blockquote {
+    border-color: _palette(accent-purple);
+  }
+
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  a.button {
+    background: _palette(accent-purple);
+    border-color: _palette(accent-purple);
+    color: #fff;
+  }
+
+  .button.secondary {
+    background: transparent;
+    color: _palette(accent-purple);
+
+    &:hover,
+    &:focus,
+    &:active {
+      background: _palette(accent-purple);
+      color: #fff;
+    }
+  }
+
+  .button.white {
+    background: #fff;
+    border-color: transparent;
+    color: _palette(primary);
+  }
+
+  .underline {
+    &:after {
+      border-color: _palette(accent-purple);
+    }
+  }
+
+  .icon-plus {
+    background: _palette(accent-purple);
+  }
+
+  .review-text {
+    &:before {
+      color: _palette(accent-purple);
+    }
+  }
+
+  .plan {
+    &.highlight {
+      .plan-inside {
+        border-color: _palette(accent-purple);
+      }
+
+      .button {
+        background: _palette(accent-purple);
+        color: #fff;
+      }
+    }
+  }
+
+  .block {
+    &.bg-accent {
+      background: _palette(accent-purple);
+      background: -webkit-linear-gradient(left,_palette(accent-purple), _palette(accent-purple-alt));
+      background: linear-gradient(to right,_palette(accent-purple), _palette(accent-purple-alt));
+    }
+  }
+}
+
+
+
+
+
 .palette-purple {
   a {
     &:hover,
