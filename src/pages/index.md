@@ -46,8 +46,8 @@ sections:
   title: 'Let''s talk about your next project! '
   subtitle: ''
   actions:
-  - label: Start Here
-    url: "/signup"
+  - label: 'Get Started '
+    url: "/contact "
 - type: section_posts
   template: section_posts
   section_id: recent-posts
