@@ -7,7 +7,7 @@ sections:
   title: 'Content Driven '
   content: Creating industry leading brands, best in class websites, and systems to
     help grow your business. It’s what makes us different.
-  image: "/images/hero1-2.png"
+  image: "/images/corevisio-hero.png"
   actions:
   - label: 'Hire us '
     url: "/features"
