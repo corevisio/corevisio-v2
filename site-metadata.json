@@ -1,9 +1,9 @@
 {
-  "title": "corevisio",
+  "title": "Corevisio",
   "palette": "purple",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/logo-1.png",
     "has_nav": true,
     "menu": {
       "actions": [
