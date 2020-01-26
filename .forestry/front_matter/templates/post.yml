@@ -38,4 +38,5 @@ fields:
     required: true
 pages:
 - src/pages/posts/Customer-Loyalty.md
+- src/pages/posts/miokal-1.md
 - src/pages/posts/miokal.md
