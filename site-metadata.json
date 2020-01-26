@@ -15,7 +15,7 @@
     }
   },
   "footer": {
-    "logo_img": "/images/logo-light.png",
+    "logo_img": "",
     "tagline": "",
     "has_nav": true,
     "nav_title": "Agency ",
