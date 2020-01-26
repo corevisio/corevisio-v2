@@ -10,7 +10,7 @@ sections:
   image: "/images/corevisio-hero.png"
   actions:
   - label: 'Hire us '
-    url: "/features"
+    url: "/contact"
 - type: section_features
   template: section_features
   section_id: features
