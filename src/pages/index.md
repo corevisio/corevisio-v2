@@ -15,19 +15,20 @@ sections:
   template: section_features
   section_id: features
   title: 'What we do '
-  subtitle: 'something something '
+  subtitle: 'Backed by your vision, our goal is to create and develop a web project
+    where your content is the driving force. '
   bg: gray
   featureslist:
   - title: 'Build an Experience '
     content: A streamlined approach to present your project and services to your audience.
-    image: images/feature1.png
+    image: "/images/undraw_messages1_9ah2.png"
     actions:
     - label: Learn More
       url: "/features"
-  - title: 'Creative and responsive, win win '
-    content: Mobile first design approach. Solution to reach your client on their
-      screen of choice.
-    image: images/feature2.png
+  - title: 'Creative and Responsive, Win Win '
+    content: 'Mobile first design approach. Solutions to reach your clients on mobile
+      and desktop. '
+    image: "/images/undraw_Mobile_app_p3ts.png"
     actions:
     - label: Learn More
       url: "/features"
@@ -35,7 +36,7 @@ sections:
     content: Ever asked yourself what size does my logo have to be on Instagram, what
       time do I need to post to maximize reach and accumulate potential customers?
       Benefit for the best in class design
-    image: images/feature3.png
+    image: "/images/undraw_social_influencer_sgsv.png"
     actions:
     - label: Learn More
       url: "/features"
