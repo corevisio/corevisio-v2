@@ -44,9 +44,9 @@ sections:
   template: section_cta
   section_id: call-to-action
   title: 'Let''s talk about your next project! '
-  subtitle: 'Ask us anything '
+  subtitle: ''
   actions:
-  - label: Get Started
+  - label: Start Here
     url: "/signup"
 - type: section_posts
   template: section_posts
