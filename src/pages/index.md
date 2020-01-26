@@ -51,7 +51,7 @@ sections:
 - type: section_posts
   template: section_posts
   section_id: recent-posts
-  title: 'Projects '
+  title: 'Recent Projects '
   bg: gray
   subtitle: ''
 menus:
