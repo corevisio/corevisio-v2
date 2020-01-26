@@ -38,4 +38,3 @@ fields:
     required: true
 pages:
 - src/pages/posts/Customer-Loyalty.md
-- src/pages/posts/User-Journey-Mapping.md
