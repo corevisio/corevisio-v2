@@ -1,14 +1,9 @@
 {
   "links": [
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "url": "https://twitter.com/"
-    },
-    {
-      "type": "instagram",
-      "title": "Instagram",
-      "url": "https://www.instagram.com/"
+      "type": "about",
+      "title": "about",
+      "url": "/about"
     },
     {
       "type": "linkedin",
