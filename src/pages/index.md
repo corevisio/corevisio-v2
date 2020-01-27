@@ -43,7 +43,7 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: 'Let''s talk about your next project! '
+  title: Let's talk about your next project..
   subtitle: ''
   actions:
   - label: 'Get Started '
