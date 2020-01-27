@@ -5,7 +5,7 @@ sections:
   template: section_contact
   section_id: contact
   title: Contact
-  content: Tell us about your projects. Ask us a question or simply give us a quick
+  content: Tell us about your **project**. Ask a question or simply give us a quick
     hello.
   bg: gray
   subtitle: ''
