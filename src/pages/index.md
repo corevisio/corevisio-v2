@@ -54,13 +54,7 @@ sections:
   title: 'Recent Projects '
   bg: gray
   subtitle: ''
-menus:
-  main:
-    title: Home
-    weight: 1
-  secondary:
-    title: Home
-    weight: 4
+
 template: landing
 
 ---
