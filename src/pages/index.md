@@ -6,7 +6,7 @@ sections:
   section_id: hero
   title: 'Content Driven '
   content: Creating industry leading brands, best in class websites, and systems to
-    help grow your business. It’s what makes us different.
+    help grow your business. That's what makes us different.
   image: "/images/corevisio-hero.png"
   actions:
   - label: Start Here
