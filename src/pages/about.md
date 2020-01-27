@@ -5,9 +5,6 @@ subtitle: This is an optional subtitle. It can be used to describe what this pag
 img_path: "/images/1_thumb.jpg"
 
 menus:
-main:
-  title: About Us 
-  weight: 4
 secondary:
     title: About Us
     weight: 1
