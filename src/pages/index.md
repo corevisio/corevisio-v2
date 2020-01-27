@@ -25,7 +25,7 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: 'Creative and Responsive, Win Win '
+  - title: Creative and Responsive
     content: 'Mobile first design approach. Solutions to reach your clients on mobile
       and desktop. '
     image: "/images/undraw_Mobile_app_p3ts.png"
