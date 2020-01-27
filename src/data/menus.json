@@ -1,14 +1,3 @@
 {
-  "links": [
-    {
-      "type": "about",
-      "title": "about",
-      "url": "/about"
-    },
-    {
-      "type": "linkedin",
-      "title": "Github",
-      "url": "https://github.com"
-    }
-  ]
+ 
 }
