@@ -5,12 +5,10 @@ sections:
   template: section_content
   section_id: 'About us '
   title: 'Our Services '
-  content: |-
-    Backed by your vision, our goal is to create and develop a web project where your content is the driving force.
-
-    ##### 01
-
-    Website UX & UI design
+  content: "We design and develop for online stores, startup, artists, musicians,
+    ngo, restaurants…\n\n##### 01\n\nWebsite UX & UI design\n\n##### 02\n\nCustom
+    Web development \n\n##### 03\n\nSearch Engine optimization\n\n##### 04\n\nSocial
+    Media Design "
   image: "/images/undraw_progressive_app_m9ms.png"
   bg: gray
   actions: []
