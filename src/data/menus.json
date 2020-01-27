@@ -1,14 +1,3 @@
 {
- menus: {
-        main: // identifier of menu container
-          [ // array of contained children menu items
-            {
-              identifier: 'myId', // identifier for this item (optional)
-              title: 'Title for page',
-              url: '/page-1/',
-              weight: 1
-            }
-          ]
-        ]
-      },
+
 }
