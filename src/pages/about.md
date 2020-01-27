@@ -3,10 +3,11 @@ title: About Us
 subtitle: This is an optional subtitle. It can be used to describe what this page
   is about.
 img_path: "/images/1_thumb.jpg"
+
 menus:
 main:
   title: About Us 
-  weight:1
+  weight: 1
 secondary:
     title: About Us
     weight: 1
