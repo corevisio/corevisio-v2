@@ -32,4 +32,5 @@ fields:
 pages:
 - src/pages/contact.md
 - src/pages/features.md
+- src/pages/about.md
 - src/pages/index.md
