@@ -8,10 +8,10 @@ sections:
   content: |-
     Backed by your vision, our goal is to create and develop a web project where your content is the driving force.
 
-    * A streamlined approach to present your project and services to your audience.
-    * Mobile first design approach. Solutions to reach your clients on mobile and desktop.
-    * Ever asked yourself what size does my logo have to be on Instagram, what time do I need to post to maximize reach and accumulate potential customers? Benefit for the best in class design
-  image: "/images/undraw_social_girl_562b.png"
+    ##### 01
+
+    Website UX & UI design
+  image: "/images/undraw_progressive_app_m9ms.png"
   bg: gray
   actions: []
 - type: section_cta
@@ -24,10 +24,10 @@ sections:
     url: "#"
 menus:
   main:
-    title: Services 
+    title: Services
     weight: 2
   secondary:
-    title: Services 
+    title: Services
     weight: 2
 template: landing
 
