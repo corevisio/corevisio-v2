@@ -33,9 +33,8 @@ sections:
     - label: Learn More
       url: "/features"
   - title: 'Social Media Design '
-    content: Ever asked yourself what size does my logo have to be on Instagram, what
-      time do I need to post to maximize reach and accumulate potential customers?
-      Benefit for the best in class design
+    content: Up your social media game and impress your followers with beautifully
+      designed posts. We can help.
     image: "/images/undraw_social_influencer_sgsv.png"
     actions:
     - label: Learn More
@@ -54,7 +53,6 @@ sections:
   title: 'Recent Projects '
   bg: gray
   subtitle: ''
-
 template: landing
 
 ---
