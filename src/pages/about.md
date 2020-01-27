@@ -7,7 +7,7 @@ img_path: "/images/1_thumb.jpg"
 menus:
 main:
   title: About Us 
-  weight: 1
+  weight: 4
 secondary:
     title: About Us
     weight: 1
