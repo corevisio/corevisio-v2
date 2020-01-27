@@ -16,7 +16,7 @@
   },
   "footer": {
     "logo_img": "",
-    "tagline": "",
+    "tagline": "Remote Office ",
     "has_nav": true,
     "nav_title": "Agency ",
     "has_social": true,
@@ -24,7 +24,7 @@
     "has_subscribe": true,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "content": "&copy; Corevisio solutions inc. All rights reserved. Remote office. ",
+    "content": "&copy; Corevisio solutions inc. All rights reserved.",
     "links": [
 
     ]
