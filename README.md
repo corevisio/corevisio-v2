@@ -1,5 +1,1 @@
-# Stackbit
-
-
-# Running Your Site Locally
-
+#corevisio, contact for more details 
