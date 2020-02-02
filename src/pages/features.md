@@ -19,7 +19,7 @@ sections:
   subtitle: ''
   actions:
   - label: Get Started
-    url: "#"
+    url: "/contact "
 menus:
   main:
     title: Services
